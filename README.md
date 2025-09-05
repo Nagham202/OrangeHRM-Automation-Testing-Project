@@ -1,6 +1,9 @@
 🧪 OrangeHRM – Automation Testing
-<img width="601" height="209" alt="orangehrm-logo" src="https://github.com/user-attachments/assets/your-image-id" />
+---------
+<img width="446" height="113" alt="orangehrm logo" src="https://github.com/user-attachments/assets/4a9b9a78-0192-48e4-a063-ae0312933c59" />
+----------
 📌 Overview
+----------
 
 This project is a Selenium + TestNG automated testing suite for OrangeHRM.
 It validates critical workflows across the Admin and User Management modules, including employee data, organization info, and access controls.
