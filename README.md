@@ -6,11 +6,11 @@
 
 📌 Overview
 
-This project is a Selenium + TestNG automated testing suite for OrangeHRM.
+- This project is a Selenium + TestNG automated testing suite for OrangeHRM.
 
-It validates critical workflows across the Admin and User Management modules, including employee data, organization info, and access controls.
+- It validates critical workflows across the Admin and User Management modules, including employee data, organization info, and access controls.
 
-The suite includes positive/negative, regression, boundary, and functional tests with reporting and bug tracking.
+- The suite includes positive/negative, regression, boundary, and functional tests with reporting and bug tracking.
 
 ----------
 
@@ -78,31 +78,26 @@ The suite includes positive/negative, regression, boundary, and functional tests
 
 📦 Installation & Running Tests
 
-- Clone the repository:
+1- Clone the repository:
 
-git clone [OrangeHRM_Automation_Testing](https://github.com/AhmedElian/OrangeHRM_Automation_Testing.git)
+  - git clone [OrangeHRM_Automation_Testing](https://github.com/AhmedElian/OrangeHRM_Automation_Testing.git)
 
 
-- Open the project in your IDE (IntelliJ / Eclipse / VS Code)
+2- Open the project in your IDE (IntelliJ / Eclipse / VS Code)
 
-- Run the TestNG suite:
+3- Run the TestNG suite:
 
   - Option 1: Run any test class directly from IDE
 
-  - Option 2: Using Maven
+  - Option 2: Using Maven: mvn clean test
 
-    mvn clean test
-
-
-  - Option 3: Run via testng.xml
-    
-    Right-click → Run As → TestNG Suite
+  - Option 3: Run via testng.xml from IDE: Right-click → Run As → TestNG Suite
 
 ----------
 
 📊 Test Coverage
 
-- Modules Tested
+1- Modules Tested
 
 🏢 Admin Module – Organization Info, Job Titles, User Roles
 
@@ -110,7 +105,7 @@ git clone [OrangeHRM_Automation_Testing](https://github.com/AhmedElian/OrangeHRM
 
 🔐 Authentication – Login, Invalid Login, Session Handling
 
-- Test Types
+2- Test Types
 
 ✅ Functional Testing
 
