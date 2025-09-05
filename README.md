@@ -1,11 +1,11 @@
-🧪 OrangeHRM – Automation Testing
----------
+**🧪 OrangeHRM – Automation Testing
+**---------
 <img width="446" height="113" alt="orangehrm logo" src="https://github.com/user-attachments/assets/4a9b9a78-0192-48e4-a063-ae0312933c59" />
 
 ----------
 
-📌 Overview
-
+**📌 Overview
+**
 - This project is a Selenium + TestNG automated testing suite for OrangeHRM.
 
 - It validates critical workflows across the Admin and User Management modules, including employee data, organization info, and access controls.
@@ -14,8 +14,8 @@
 
 ----------
 
-✨ Features
-
+**✨ Features
+**
 ✅ Automated UI Testing with Selenium WebDriver
 
 ✅ TestNG-based suite with assertions & reports
@@ -32,8 +32,8 @@
 
 ----------
 
-📂 Project Structure
-
+**📂 Project Structure
+**
 📁 OrangeHRM_Automation_Testing
 
 ├── .gitignore # Ignored files/folders
@@ -60,8 +60,8 @@
 
 ----------
 
-🛠️ Technologies Used
-
+**🛠️ Technologies Used
+**
 - Java 8+
 
 - Selenium WebDriver
@@ -76,8 +76,8 @@
 
 ----------
 
-📦 Installation & Running Tests
-
+**📦 Installation & Running Tests
+**
 1- Clone the repository:
 
   - git clone [OrangeHRM_Automation_Testing](https://github.com/AhmedElian/OrangeHRM_Automation_Testing.git)
@@ -95,8 +95,8 @@
 
 ----------
 
-📊 Test Coverage
-
+**📊 Test Coverage
+**
 1- Modules Tested
 
 🏢 Admin Module – Organization Info, Job Titles, User Roles
@@ -117,12 +117,12 @@
 
 ----------
 
-⚠️ Disclaimer
-
+**⚠️ Disclaimer
+**
 This project is for educational and practice purposes only.
 
 It is not affiliated with or intended for production use of OrangeHRM.
 
 ----------
-⭐ If you like this project, consider giving it a star on GitHub!
-----------
+**⭐ If you like this project, consider giving it a star on GitHub!
+**----------
